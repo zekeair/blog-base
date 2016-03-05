@@ -15,7 +15,7 @@ My Chinese name is Zhou Yuxiang. I use 'Zeke' as my English name. On the Interne
 
 ### 我熟悉，并不断学习 / My skillful tech：
 
-- Java ( Back-end, Android )
+- Java ( Spring, Hibernate, Android )
 - Javascript ( Front-end, Node )
 - Less, Stylus
 - Lua
@@ -49,6 +49,7 @@ My Chinese name is Zhou Yuxiang. I use 'Zeke' as my English name. On the Interne
 - 健身 / Fitness
 - 旅行 / Travel
 - 读书 / Reading
+- 游戏 / Games
 
 ### 联系方式 / Contact me 
 
