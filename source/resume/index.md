@@ -21,7 +21,7 @@ comments: false
 - 联系电话：18616132839
 - 技术博客：[http://track.zekeair.xyz](http://track.zekeair.xyz)
 - Github：[https://github.com/zekeair](https://github.com/zekeair)
-- 期待职位：web全栈工程师，web前端工程师，见习产品经理
+- 期待职位：web全栈工程师，Java开发工程师，见习产品经理
 
 ## 工作经历
 
