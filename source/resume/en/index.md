@@ -5,7 +5,7 @@ comments: false
 ---
 <p class="resume-language">[中文版](/resume/)</p>
 
-<div class="resume-download"><strong>Download -&gt; <a href="/assets/resume_en.pdf">PDF</a> | <a href="/assets/resume_en.docx">Docx</a></strong></div>
+<div class="resume-download"><strong>Download -&gt; <a href="/assets/en/resume.pdf">PDF</a> | <a href="/assets/en/resume.docx">Docx</a></strong></div>
 
 <h1 class="title">Zeke Zhou</h1>
 
