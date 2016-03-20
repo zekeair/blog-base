@@ -13,7 +13,7 @@ comments: false
 <img src="/images/resume/QR.jpg" class="QR"/>
 
 - 性别：男
-- 学历：本科 | 2013级重庆邮电大学 软件工程专业
+- 学历：本科 | 2013年毕业于重庆邮电大学 软件工程专业
 - 工作年限：两年半
 - 工作情况：在职
 - 电子邮件：<a href="mailto:zeke.zhou@foxmail.com" target="_self">zeke.zhou@foxmail.com</a> 
